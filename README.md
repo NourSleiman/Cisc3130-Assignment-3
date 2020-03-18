@@ -1,6 +1,6 @@
 # Cisc3130-Assignment-3
 
-One csv files is stored in an array to be read into a 2D array. 
+One csv file is stored in an array so its data can be read into a 2D array. 
 The title is in the first column while the year is in the second column.
 
 After all information is read into the array, the elements are then inputted into the binary search tree which sorts them alphabetically.
